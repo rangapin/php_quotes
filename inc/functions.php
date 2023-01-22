@@ -37,14 +37,14 @@ $quotes = array(
 	'year' => '2016'],
 
 	['quote' => 'I get to introduce you to functions, which you can sort of think of as, verbs of the programming world. Functions are responsible for doing things.',
-	 'source' => 'Victor Hugo',
-	 'citation' => 'Les Misérables',
-	 'year' => '1862'],
+	'source' => 'Jeffrey Way',
+	'citation' => 'PHP Practitioner',
+	'year' => '2016'],
 
-	['quote' => 'It is only with the heart that one can see rightly; what is essential is invisible to the eye.',
-	 'source' => 'Antoine de Saint-Exupéry',
-	 'citation' => 'The Little Prince ',
-	 'year' => '1943'],
+	['quote' => 'You can think of a controller as responsible for, err, accepting an incoming request and providing a response.',
+	'source' => 'Jeffrey Way',
+	'citation' => 'PHP For beginners',
+	'year' => '2022'],
 
 	['quote' => 'I had put this earlier as an example over in your functions.php file: (...) But I was expecting you to add on the appropriate HTML'	,
 	 'source' => 'Jennifer Nordell',
